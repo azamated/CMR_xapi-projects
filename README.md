@@ -26,6 +26,6 @@
  
  ![image](https://user-images.githubusercontent.com/45620101/111865333-904cd500-8977-11eb-9abb-2b65666301c5.png)
  
-**8.	Room_capacity_alert.** The script allows pop-up notifications on the screen and touch panel when the room capacity has been exceeded (COVID alert).
+**8.	room_capacity_alert.** The script allows pop-up notifications on the screen and touch panel when the room capacity has been exceeded (COVID alert).
 
 **9.	speed_dial.** The script contains code that allows the speed dial buttons work.
