@@ -6,7 +6,11 @@
  
 **2.	AdminGuide.** The script monitors for an event when the widget is clicked. Once clicked, the script opens a pop-up widow with a text (user/admin guide).
 
+![image](https://user-images.githubusercontent.com/45620101/111865405-cdb16280-8977-11eb-9c71-585bbe99948d.png)
+
 **3.	Join Zoom Button** The script dials the zoom SIP dial- in URI to join a Zoom video conference.
+
+![image](https://user-images.githubusercontent.com/45620101/111865420-defa6f00-8977-11eb-85bc-056c2ed28856.png)
 
 **4.	More Tools.** The script provides functionality for the buttons under the “More Tools” panel. Each button in the panel has its own code in the script.
 
