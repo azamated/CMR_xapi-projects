@@ -1,6 +1,7 @@
 <h1>Scripts for CIsco Collaboration Endpoints</h1>
 
 **1.	AdminTools.** The script monitors for an event when the “System Control Tools” button is clicked. Once clicked, the script asks for a password, and once the password has been provided the “admin” panel is opened.
+![image](https://user-images.githubusercontent.com/45620101/111865190-9aba9f00-8976-11eb-9097-bdec423e9815.png)
 
 **2.	AdminGuide.** The script monitors for an event when the widget is clicked. Once clicked, the script opens a pop-up widow with a text (user/admin guide).
 
@@ -17,3 +18,4 @@
 **8.	SystemStatus.** This script monitors the status of the widget “widget_67” (Power Off button). If the widget has a value “inactive” (which means the systems are OFF) the script will pop-up a text message “System is currently OFF, Turn it ON? If the user press “Yes”, the system will start.
  
 **9.	Room Capacity Alert.** The script allows pop-up notifications on the screen and touch panel when the room capacity has been exceeded (COVID alert).
+
