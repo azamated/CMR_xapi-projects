@@ -2,7 +2,7 @@
 
 **1.	AdminTools.** The script monitors for an event when the “System Control Tools” button is clicked. Once clicked, the script asks for a password, and once the password has been provided the “admin” panel is opened.
 
-![image](https://user-images.githubusercontent.com/45620101/111865190-9aba9f00-8976-11eb-9097-bdec423e9815.png)
+<div align="center">![image](https://user-images.githubusercontent.com/45620101/111865190-9aba9f00-8976-11eb-9097-bdec423e9815.png)</div>
  
 **2.	AdminGuide.** The script monitors for an event when the widget is clicked. Once clicked, the script opens a pop-up widow with a text (user/admin guide).
 
